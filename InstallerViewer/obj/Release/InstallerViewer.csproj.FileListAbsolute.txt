@@ -1,0 +1,17 @@
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\bin\Release\InstallerViewer.exe.config
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\bin\Release\InstallerViewer.exe
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\bin\Release\InstallerViewer.pdb
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\bin\Release\Microsoft.Deployment.WindowsInstaller.dll
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\bin\Release\Microsoft.Deployment.WindowsInstaller.Linq.dll
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\obj\Release\InstallerViewer.csproj.AssemblyReference.cache
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\obj\Release\InstallerViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\obj\Release\InstallerViewer.EXEForm.resources
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\obj\Release\InstallerViewer.MainForm.resources
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\obj\Release\InstallerViewer.FileForm.resources
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\obj\Release\InstallerViewer.Properties.Resources.resources
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\obj\Release\InstallerViewer.RegistryForm.resources
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\obj\Release\InstallerViewer.csproj.GenerateResource.cache
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\obj\Release\InstallerViewer.csproj.CoreCompileInputs.cache
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\obj\Release\InstallerViewer.csproj.CopyComplete
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\obj\Release\InstallerViewer.exe
+C:\Users\Quilt\source\repos\新增資料夾\InstallerViewer\InstallerViewer\obj\Release\InstallerViewer.pdb
